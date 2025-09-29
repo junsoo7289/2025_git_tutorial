@@ -1,2 +1,7 @@
 Hello world!
+<<<<<<< HEAD
 My name is Junsoo
+My student number is 2024-12400
+=======
+My student number is 2024-12400
+>>>>>>> student_id_assignment
