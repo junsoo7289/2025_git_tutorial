@@ -1,2 +1,6 @@
 Hello
-my address is
+<<<<<<< HEAD
+my name is junsoo
+=======
+my name is
+>>>>>>> new_branch
