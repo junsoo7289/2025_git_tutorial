@@ -1,6 +1,1 @@
 Hello
-<<<<<<< HEAD
-my name is junsoo
-=======
-my name is
->>>>>>> new_branch
