@@ -1,2 +1,6 @@
 Hello
-He is
+<<<<<<< HEAD
+I am Junsoo
+=======
+I am
+>>>>>>> new_branch_attendence
